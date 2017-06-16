@@ -1,14 +1,16 @@
 ﻿<Properties StartupConfiguration="{2720C638-2081-4626-ABDF-D0EDC524E6F8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DroneLander/ViewModels/MainViewModel.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DroneLander/Common/CoreConstants.cs">
     <Files>
       <File FileName="Droid/Effects/DigitalFontEffect.cs" Line="36" Column="41" />
       <File FileName="DroneLander/Effects/DigitalFontEffect.cs" Line="4" Column="22" />
       <File FileName="DroneLander/obj/Debug/DroneLander.MainPage.xaml.g.cs" Line="19" Column="1" />
       <File FileName="DroneLander/Services/IAudioService.cs" Line="9" Column="41" />
-      <File FileName="Droid/Services/IAudioService.cs" Line="88" Column="2" />
+      <File FileName="Droid/Services/IAudioService.cs" Line="61" Column="21" />
       <File FileName="iOS/Services/IAudioService.cs" Line="67" Column="2" />
       <File FileName="DroneLander/Helpers/AudioHelper.cs" Line="31" Column="2" />
-      <File FileName="DroneLander/ViewModels/MainViewModel.cs" Line="27" Column="14" />
+      <File FileName="DroneLander/ViewModels/MainViewModel.cs" Line="87" Column="4" />
+      <File FileName="DroneLander/App.xaml.cs" Line="21" Column="43" />
+      <File FileName="DroneLander/Common/CoreConstants.cs" Line="19" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

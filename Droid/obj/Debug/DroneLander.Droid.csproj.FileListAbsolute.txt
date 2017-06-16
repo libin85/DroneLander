@@ -71,3 +71,9 @@
 /Users/libinjoseph/Projects/DroneLander/Droid/obj/Debug/res/drawable/throttle_thumb.png
 /Users/libinjoseph/Projects/DroneLander/Droid/obj/Debug/R.cs.flag
 /Users/libinjoseph/Projects/DroneLander/Droid/obj/Debug/uploadflags.txt
+/Users/libinjoseph/Projects/DroneLander/Droid/bin/Debug/Microsoft.Azure.Mobile.Analytics.Android.Bindings.dll
+/Users/libinjoseph/Projects/DroneLander/Droid/bin/Debug/Microsoft.Azure.Mobile.Analytics.dll
+/Users/libinjoseph/Projects/DroneLander/Droid/bin/Debug/Microsoft.Azure.Mobile.Android.Bindings.dll
+/Users/libinjoseph/Projects/DroneLander/Droid/bin/Debug/Microsoft.Azure.Mobile.Crashes.Android.Bindings.dll
+/Users/libinjoseph/Projects/DroneLander/Droid/bin/Debug/Microsoft.Azure.Mobile.Crashes.dll
+/Users/libinjoseph/Projects/DroneLander/Droid/bin/Debug/Microsoft.Azure.Mobile.dll

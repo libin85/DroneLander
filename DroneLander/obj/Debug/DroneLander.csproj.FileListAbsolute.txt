@@ -18,3 +18,6 @@
 /Users/libinjoseph/Projects/DroneLander/DroneLander/obj/Debug/DroneLander.dll
 /Users/libinjoseph/Projects/DroneLander/DroneLander/obj/Debug/DroneLander.pdb
 /Users/libinjoseph/Projects/DroneLander/DroneLander/obj/Debug/DroneLander.csprojResolveAssemblyReference.cache
+/Users/libinjoseph/Projects/DroneLander/DroneLander/bin/Debug/Microsoft.Azure.Mobile.Analytics.dll
+/Users/libinjoseph/Projects/DroneLander/DroneLander/bin/Debug/Microsoft.Azure.Mobile.Crashes.dll
+/Users/libinjoseph/Projects/DroneLander/DroneLander/bin/Debug/Microsoft.Azure.Mobile.dll

@@ -1,6 +1,12 @@
 /Users/libinjoseph/Projects/DroneLander/Droid/obj/Debug/android/assets/DroneLander.Droid.dll
 /Users/libinjoseph/Projects/DroneLander/Droid/obj/Debug/android/assets/DroneLander.dll
 /Users/libinjoseph/Projects/DroneLander/Droid/obj/Debug/android/assets/FormsViewGroup.dll
+/Users/libinjoseph/Projects/DroneLander/Droid/obj/Debug/android/assets/Microsoft.Azure.Mobile.Analytics.Android.Bindings.dll
+/Users/libinjoseph/Projects/DroneLander/Droid/obj/Debug/android/assets/Microsoft.Azure.Mobile.Analytics.dll
+/Users/libinjoseph/Projects/DroneLander/Droid/obj/Debug/android/assets/Microsoft.Azure.Mobile.Android.Bindings.dll
+/Users/libinjoseph/Projects/DroneLander/Droid/obj/Debug/android/assets/Microsoft.Azure.Mobile.Crashes.Android.Bindings.dll
+/Users/libinjoseph/Projects/DroneLander/Droid/obj/Debug/android/assets/Microsoft.Azure.Mobile.Crashes.dll
+/Users/libinjoseph/Projects/DroneLander/Droid/obj/Debug/android/assets/Microsoft.Azure.Mobile.dll
 /Users/libinjoseph/Projects/DroneLander/Droid/obj/Debug/android/assets/Xamarin.Android.Support.Animated.Vector.Drawable.dll
 /Users/libinjoseph/Projects/DroneLander/Droid/obj/Debug/android/assets/Xamarin.Android.Support.Annotations.dll
 /Users/libinjoseph/Projects/DroneLander/Droid/obj/Debug/android/assets/Xamarin.Android.Support.Compat.dll
