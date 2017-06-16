@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{2720C638-2081-4626-ABDF-D0EDC524E6F8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DroneLander/ViewModels/MainViewModel.cs">
+    <Files>
+      <File FileName="Droid/Effects/DigitalFontEffect.cs" Line="36" Column="41" />
+      <File FileName="DroneLander/Effects/DigitalFontEffect.cs" Line="4" Column="22" />
+      <File FileName="DroneLander/obj/Debug/DroneLander.MainPage.xaml.g.cs" Line="19" Column="1" />
+      <File FileName="DroneLander/Services/IAudioService.cs" Line="9" Column="41" />
+      <File FileName="Droid/Services/IAudioService.cs" Line="88" Column="2" />
+      <File FileName="iOS/Services/IAudioService.cs" Line="67" Column="2" />
+      <File FileName="DroneLander/Helpers/AudioHelper.cs" Line="31" Column="2" />
+      <File FileName="DroneLander/ViewModels/MainViewModel.cs" Line="27" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DroneLander.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.842C857D-2E37-4686-8823-B8AF385C9A9C" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DroneLander.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.a90d286" />
+</Properties>
